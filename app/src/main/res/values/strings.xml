@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoinUsMovies</string>
+    <string name="btn_prev">&lt;</string>
+    <string name="btn_prox">&gt;</string>
+</resources>
